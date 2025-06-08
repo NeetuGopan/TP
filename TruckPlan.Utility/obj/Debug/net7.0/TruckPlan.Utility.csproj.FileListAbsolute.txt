@@ -1,0 +1,24 @@
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\bin\Debug\net7.0\TruckPlan.Utility.deps.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\bin\Debug\net7.0\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\bin\Debug\net7.0\TruckPlan.Utility.pdb
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.AssemblyInfoInputs.cache
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.AssemblyInfo.cs
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.sourcelink.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\refint\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.pdb
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\ref\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\bin\Debug\net7.0\TruckPlan.Utility.deps.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\bin\Debug\net7.0\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\bin\Debug\net7.0\TruckPlan.Utility.pdb
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.AssemblyInfoInputs.cache
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.AssemblyInfo.cs
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.sourcelink.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\refint\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\TruckPlan.Utility.pdb
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan.Utility\obj\Debug\net7.0\ref\TruckPlan.Utility.dll

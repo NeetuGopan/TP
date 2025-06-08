@@ -1,0 +1,74 @@
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.csproj.AssemblyReference.cache
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.AssemblyInfoInputs.cache
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.AssemblyInfo.cs
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.sourcelink.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\appsettings.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.exe
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.deps.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.runtimeconfig.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.pdb
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Utility.pdb
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.TruckPlan.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.build.TruckPlan.Api.props
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TruckPlan.Api.props
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TruckPlan.Api.props
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\scopedcss\bundle\TruckPlan.Api.styles.css
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPla.F13BB024.Up2Date
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\refint\TruckPlan.Api.dll
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.pdb
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.genruntimeconfig.cache
+C:\Users\Kannan Subhash\OneDrive - 3Shape A S\Desktop\ng\projects\TruckPlanApp\TruckPlan\obj\Debug\net7.0\ref\TruckPlan.Api.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\appsettings.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.exe
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.deps.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.runtimeconfig.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Api.pdb
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Utility.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\bin\Debug\net7.0\TruckPlan.Utility.pdb
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.csproj.AssemblyReference.cache
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.AssemblyInfoInputs.cache
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.AssemblyInfo.cs
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.sourcelink.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.TruckPlan.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.build.TruckPlan.Api.props
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TruckPlan.Api.props
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TruckPlan.Api.props
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\scopedcss\bundle\TruckPlan.Api.styles.css
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPla.F13BB024.Up2Date
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\refint\TruckPlan.Api.dll
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.pdb
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\TruckPlan.Api.genruntimeconfig.cache
+C:\Users\Kannan Subhash\Downloads\TruckPlanApp\TruckPlanApp\TruckPlan\obj\Debug\net7.0\ref\TruckPlan.Api.dll
