@@ -534,11 +534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlanApp\\TruckPlan\\TruckPlan.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlan\\TruckPlan.Api.csproj",
       "projectName": "TruckPlan.Api",
-      "projectPath": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlanApp\\TruckPlan\\TruckPlan.Api.csproj",
+      "projectPath": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlan\\TruckPlan.Api.csproj",
       "packagesPath": "C:\\Users\\Kannan Subhash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlanApp\\TruckPlan\\obj\\",
+      "outputPath": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kannan Subhash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -556,8 +556,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlanApp\\TruckPlan.Utility\\TruckPlan.Utility.csproj": {
-              "projectPath": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlanApp\\TruckPlan.Utility\\TruckPlan.Utility.csproj"
+            "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlan.Utility\\TruckPlan.Utility.csproj": {
+              "projectPath": "C:\\Users\\Kannan Subhash\\Downloads\\TruckPlanApp\\TruckPlan.Utility\\TruckPlan.Utility.csproj"
             }
           }
         }
